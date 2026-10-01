@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Zanira! 👋
 
-<!--
-**Zanirabutt/zanirabutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Data Science student at the University of Engineering & Technology, Lahore. I am interested in programming, problem-solving, and learning how technology can be used to solve real-world problems. I am currently developing my skills in software development, databases, and data analysis. I enjoy exploring new technologies and improving my technical knowledge through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category              | Technologies                        |
+| --------------------- | ----------------------------------- |
+| Programming Languages | Python, C#                          |
+| Database              | SQL Server                          |
+| Tools                 | Visual Studio, VS Code, Git, GitHub |
+| Areas of Interest     | Data Science, Software Development  |
+
+## Featured Projects
+
+### MoodTunes
+
+A desktop application project focused on music discovery based on moods, developed using C#, WPF, HTML, CSS, and SQL Server.
+
+
+## Education
+
+**University of Engineering & Technology, Lahore**
+Degree Program: Data Science
+
+## Contact
+
+* GitHub: [@zanirabutt](https://github.com/zanirabutt)
