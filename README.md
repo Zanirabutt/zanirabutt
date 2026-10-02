@@ -28,3 +28,7 @@ Degree Program: Data Science
 ## Contact
 
 * GitHub: [@zanirabutt](https://github.com/zanirabutt)
+
+## What I'm Learning
+
+I am learning Git and GitHub as part of my Software Engineering lab.
