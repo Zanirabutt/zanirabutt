@@ -1,34 +1,52 @@
 # Hi, I'm Zanira! 👋
 
-## About Me
+### Data Science Student | Aspiring Software Developer
 
-I am a Data Science student at the University of Engineering & Technology, Lahore. I am interested in programming, problem-solving, and learning how technology can be used to solve real-world problems. I am currently developing my skills in software development, databases, and data analysis. I enjoy exploring new technologies and improving my technical knowledge through practical projects.
+Welcome to my GitHub profile!
 
-## Skills & Technologies
+## 👩‍💻 About Me
 
-| Category              | Technologies                        |
-| --------------------- | ----------------------------------- |
-| Programming Languages | Python, C#                          |
-| Database              | SQL Server                          |
-| Tools                 | Visual Studio, VS Code, Git, GitHub |
-| Areas of Interest     | Data Science, Software Development  |
+I am a Data Science student at the University of Engineering & Technology, Lahore, with an interest in programming, problem-solving, and technology.
 
-## Featured Projects
+I enjoy building practical projects, exploring new technologies, and continuously developing my technical skills. My interests include software development, databases, and data analytics.
+
+## 🛠️ Skills & Technologies
+
+| Category | Technologies |
+|---|---|
+| Programming Languages | Python, C# |
+| Database | SQL Server |
+| Tools & IDEs | Visual Studio, VS Code |
+| Version Control | Git, GitHub |
+| Areas of Interest | Data Science, Software Development, Data Analytics |
+
+## 🚀 Featured Projects
 
 ### MoodTunes
+A desktop application developed using C#, WPF, HTML, CSS, and SQL Server, focused on mood-based music discovery.
 
-A desktop application project focused on music discovery based on moods, developed using C#, WPF, HTML, CSS, and SQL Server.
+### Intelligent Airport Operation System
+An academic software engineering project focused on improving airport operations through an integrated software solution.
 
-
-## Education
+## 🎓 Education
 
 **University of Engineering & Technology, Lahore**
+
 Degree Program: Data Science
 
-## Contact
+📚 Currently Learning
 
-* GitHub: [@zanirabutt](https://github.com/zanirabutt)
+Data Structures and Algorithms (C#)
+Software Engineering
+Computer Networks
+Data Analysis
+  
 
-## What I'm Learning
+## 🤝 Connect With Me
 
-I am learning Git and GitHub as part of my Software Engineering lab.
+- **GitHub:** [@Zanirabutt](https://github.com/Zanirabutt)
+- **LinkedIn:** [Zanira Mansoor Butt](https://www.linkedin.com/in/zanira-mansoor-butt-226480389/)
+
+---
+
+*Always learning, building, and exploring new possibilities!* ✨
