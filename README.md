@@ -34,12 +34,13 @@ An academic software engineering project focused on improving airport operations
 
 Degree Program: Data Science
 
-📚 Currently Learning
+## 📚 Currently Learning
 
-Data Structures and Algorithms (C#)
-Software Engineering
-Computer Networks
-Data Analysis
+- Data Structures and Algorithms (C#)
+- Software Engineering
+- Computer Networks
+- Data Analysis
+
   
 
 ## 🤝 Connect With Me
